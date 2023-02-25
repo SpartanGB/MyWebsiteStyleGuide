@@ -193,3 +193,6 @@ body{
     margin: 10px auto;
     border-radius: 20px;
 }
+html{
+  scroll-padding-top: 10rem;
+  }
